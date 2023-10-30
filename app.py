@@ -8,7 +8,7 @@ with st.sidebar:
     st.info("This project application helps you understand more about Samuel and his capabilities in detail.")
 
 if choice == "About Sam":
-    st.title("Hi am sam")
+    st.title("Hi am Samuel Mutinda")
     
 if choice == "Projects": 
     st.title("Projects done by Samuel")
